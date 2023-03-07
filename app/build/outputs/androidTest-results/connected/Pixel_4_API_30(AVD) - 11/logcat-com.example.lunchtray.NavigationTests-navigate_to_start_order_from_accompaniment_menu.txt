@@ -1,0 +1,118 @@
+03-07 14:49:41.428 10428 10453 I TestRunner: started: navigate_to_start_order_from_accompaniment_menu(com.example.lunchtray.NavigationTests)
+03-07 14:49:41.428 10428 10428 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+03-07 14:49:41.428 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 1 line
+03-07 14:49:41.428 10428 10428 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+03-07 14:49:41.476   343   343 W SurfaceFlinger: couldn't log to binary event log: overflow.
+03-07 14:49:41.523 10428 10453 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+03-07 14:49:41.550   541   569 D EventSequenceValidator: Transition from ACTIVITY_FINISHED to INTENT_STARTED
+03-07 14:49:41.575  1641  2490 I A       : getLocaleToModelSpecsMap
+03-07 14:49:41.577  1641  2490 I A       : Using proto config with mendel
+03-07 14:49:41.580  1641  2490 W A       : (REDACTED) Task %s was queued for %dms before starting on executor %s
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.589   541  2014 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.590   541  2014 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.590   541  2014 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.590   541  2014 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.590   541  2014 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.590   541  2014 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.623   541   569 D EventSequenceValidator: Transition from INTENT_STARTED to ACTIVITY_LAUNCHED
+03-07 14:49:41.661   280  7979 D goldfish-address-space: claimShared: Ask to claim region [0x3f0965000 0x3f12ca000]
+03-07 14:49:41.664 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae in: PRE_ON_CREATE
+03-07 14:49:41.664 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:41.666 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 7 lines
+03-07 14:49:41.667 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:41.729 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae in: CREATED
+03-07 14:49:41.729 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:41.733 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 7 lines
+03-07 14:49:41.734 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:41.747 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae in: STARTED
+03-07 14:49:41.747 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:41.749 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 7 lines
+03-07 14:49:41.749 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:41.766 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae in: RESUMED
+03-07 14:49:41.768 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:41.769 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 7 lines
+03-07 14:49:41.769 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:41.773 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae in: PAUSED
+03-07 14:49:41.773 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:41.774 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 7 lines
+03-07 14:49:41.774 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.781   541  2014 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.782   541  2014 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.782   541  2014 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.782   541  2014 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.782   541  2014 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.782   541  2014 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.782   541  2014 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.782   541  2014 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:41.915  1120  1134 I s.nexuslaunche: NativeAlloc concurrent copying GC freed 17147(744KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 3897KB/7795KB, paused 1.703ms total 1.757s
+03-07 14:49:41.917  1120  1136 W System  : A resource failed to call release.
+03-07 14:49:41.952  1120  1136 I chatty  : uid=10138(com.google.android.apps.nexuslauncher) FinalizerDaemon identical 10 lines
+03-07 14:49:41.953  1120  1136 W System  : A resource failed to call release.
+03-07 14:49:41.964 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a325647 in: PRE_ON_CREATE
+03-07 14:49:41.966 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+03-07 14:49:41.968 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 6 lines
+03-07 14:49:41.968 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+03-07 14:49:41.968 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+03-07 14:49:42.041 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a325647 in: CREATED
+03-07 14:49:42.041 10428 10428 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a325647
+03-07 14:49:42.042 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 7 lines
+03-07 14:49:42.042 10428 10428 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a325647
+03-07 14:49:42.062 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a325647 in: STARTED
+03-07 14:49:42.063 10428 10428 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a325647
+03-07 14:49:42.071 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 7 lines
+03-07 14:49:42.071 10428 10428 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a325647
+03-07 14:49:42.072 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a325647 in: RESUMED
+03-07 14:49:42.073 10428 10428 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a325647
+03-07 14:49:42.073 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 7 lines
+03-07 14:49:42.073 10428 10428 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@a325647
+03-07 14:49:42.178   280  7979 D goldfish-address-space: claimShared: Ask to claim region [0x3ec85d000 0x3ed1c2000]
+03-07 14:49:42.260   280  7979 D goldfish-address-space: claimShared: Ask to claim region [0x3f1c2f000 0x3f2594000]
+03-07 14:49:42.304   266  4584 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+03-07 14:49:42.324   266  4584 I chatty  : uid=1041(audioserver) audio.service.r identical 1 line
+03-07 14:49:42.344   266  4584 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+03-07 14:49:42.352   280  7979 D goldfish-address-space: claimShared: Ask to claim region [0x3f2594000 0x3f2ef9000]
+03-07 14:49:42.358   280  7979 D goldfish-address-space: claimShared: Ask to claim region [0x3f2ef9000 0x3f385e000]
+03-07 14:49:42.436   541  2014 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:49:42.506  1641  2455 I PBSessionCacheImpl: (REDACTED) Deleted sessionId[%d] from persistence.
+03-07 14:49:42.559   541   569 D EventSequenceValidator: Transition from ACTIVITY_LAUNCHED to ACTIVITY_FINISHED
+03-07 14:49:42.661  1641  2490 W SearchServiceCore: Abort, client detached.
+03-07 14:49:42.706   541   574 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.lunchtray/1/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity/compiled_traces/compiled_trace.pb doesn't exist
+03-07 14:49:42.709   541   574 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +996ms
+03-07 14:49:42.739 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae in: STOPPED
+03-07 14:49:42.751 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:42.762   541   570 I Choreographer: Skipped 39 frames!  The application may be doing too much work on its main thread.
+03-07 14:49:42.766 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:42.806 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 6 lines
+03-07 14:49:42.806 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@ddba6ae
+03-07 14:49:43.187 10428 10428 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230842/com.example.lunchtray:id/cancel_button>
+03-07 14:49:43.248   541  2014 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:49:43.248   541  2014 I chatty  : uid=1000(system) Binder:541_1C identical 1 line
+03-07 14:49:43.249   541  2014 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:49:43.386   541   554 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:49:43.473 10428 10453 I TestRunner: finished: navigate_to_start_order_from_accompaniment_menu(com.example.lunchtray.NavigationTests)

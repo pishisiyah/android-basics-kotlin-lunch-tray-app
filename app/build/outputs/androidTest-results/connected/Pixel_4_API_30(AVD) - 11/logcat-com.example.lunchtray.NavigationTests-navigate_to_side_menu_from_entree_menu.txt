@@ -1,0 +1,446 @@
+03-07 14:49:53.895 10428 10453 I TestRunner: started: navigate_to_side_menu_from_entree_menu(com.example.lunchtray.NavigationTests)
+03-07 14:49:53.930   280  7979 D goldfish-address-space: claimShared: Ask to claim region [0x3f1c2f000 0x3f2594000]
+03-07 14:49:54.001   280   319 D goldfish-address-space: claimShared: Ask to claim region [0x3f425a000 0x3f4bbf000]
+03-07 14:49:54.020   280  7979 D goldfish-address-space: claimShared: Ask to claim region [0x3f5e89000 0x3f67ee000]
+03-07 14:49:54.052  1641  2805 I OpenGLRenderer: Davey! duration=1473ms; Flags=1, IntendedVsync=1343117431400, Vsync=1343200764730, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=1343212429700, AnimationStart=1343212486500, PerformTraversalsStart=1343212567600, DrawStart=1344482287300, SyncQueued=1344483086500, SyncStart=1344554971300, IssueDrawCommandsStart=1344555183400, SwapBuffers=1344562493000, FrameCompleted=1344663018600, DequeueBufferDuration=20634300, QueueBufferDuration=14487200, GpuCompleted=0,
+03-07 14:49:54.063 10428 10459 I OpenGLRenderer: Davey! duration=1238ms; Flags=0, IntendedVsync=1343417431841, Vsync=1343450765173, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=1343451681900, AnimationStart=1343451734600, PerformTraversalsStart=1343453570900, DrawStart=1343453825500, SyncQueued=1343455693700, SyncStart=1343473674200, IssueDrawCommandsStart=1343473832400, SwapBuffers=1343975209300, FrameCompleted=1344674007500, DequeueBufferDuration=3737800, QueueBufferDuration=30680600, GpuCompleted=0,
+03-07 14:49:54.144  2193  2488 W SQLiteConnectionPool: The connection pool for database '/data/user/0/com.google.android.gms/databases/phenotype.db' has been unable to grant a connection to thread 214 (highpool[3]) with flags 0x2 for 60.004 seconds.
+03-07 14:49:54.144  2193  2488 W SQLiteConnectionPool: Connections: 0 active, 1 idle, 1 available.
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: Phenotype bulk platform registration failed. [CONTEXT service_id=204 ]
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: java.util.concurrent.TimeoutException: Timed out waiting for Task
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at braz.m(:com.google.android.gms@230514040@23.05.14 (150700-509319212):6)
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at bilt.f(:com.google.android.gms@230514040@23.05.14 (150700-509319212):9)
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.b(:com.google.android.gms@230514040@23.05.14 (150700-509319212):26)
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.c(:com.google.android.gms@230514040@23.05.14 (150700-509319212):0)
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):6)
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):2)
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at xqs.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):4)
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at gqh.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):3)
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at gqg.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):11)
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at cnqy.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):2)
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+03-07 14:49:54.205  2193 10576 W ConfiguratorPhenotypeUt: 	at java.lang.Thread.run(Thread.java:923)
+03-07 14:49:54.445  2193 10576 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+03-07 14:49:54.446 10428 10428 I Choreographer: Skipped 92 frames!  The application may be doing too much work on its main thread.
+03-07 14:49:54.447  2193 10576 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+03-07 14:49:54.449  2193 10576 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+03-07 14:49:54.450  2193 10576 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+03-07 14:49:54.450  2193 10576 I ExperimentPackageManage: Package com.google.android.art name not found! Using module version.
+03-07 14:49:54.451  2193 10576 I ExperimentPackageManage: Package com.google.android.art name not found! Using module version.
+03-07 14:49:54.451  2193 10576 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+03-07 14:49:54.452  2193 10576 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+03-07 14:49:54.452  2193 10576 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+03-07 14:49:54.453  2193 10576 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+03-07 14:49:54.453  2193 10576 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+03-07 14:49:54.454  2193 10576 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+03-07 14:49:54.494   541  2010 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:49:54.495  2193 10576 I ExperimentPackageManage: Package com.google.android.adservices name not found! Using module version.
+03-07 14:49:54.500  2193 10576 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+03-07 14:49:54.546  2193 10576 I ExperimentPackageManage: Package 1 name not found! Using module version.
+03-07 14:49:54.547  2193 10576 I ExperimentPackageManage: Package com.google.android.sdksandbox name not found! Using module version.
+03-07 14:49:54.548  2193 10576 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.libraries.onegoogle#com.google.android.gms [CONTEXT service_id=204 ]
+03-07 14:49:54.548  2193 10576 W PhenotypeConfigurationU: bily: No package exists for config package: com.google.android.libraries.onegoogle#com.google.android.gms
+03-07 14:49:54.548  2193 10576 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@230514040@23.05.14 (150700-509319212):7)
+03-07 14:49:54.548  2193 10576 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):7)
+03-07 14:49:54.548  2193 10576 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):2)
+03-07 14:49:54.548  2193 10576 W PhenotypeConfigurationU: 	at xqs.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):4)
+03-07 14:49:54.548  2193 10576 W PhenotypeConfigurationU: 	at gqh.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):3)
+03-07 14:49:54.548  2193 10576 W PhenotypeConfigurationU: 	at gqg.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):11)
+03-07 14:49:54.548  2193 10576 W PhenotypeConfigurationU: 	at cnqy.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):2)
+03-07 14:49:54.548  2193 10576 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+03-07 14:49:54.548  2193 10576 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+03-07 14:49:54.548  2193 10576 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:923)
+03-07 14:49:54.667   541 10608 I system_server: libdebuggerd_client: started dumping process 10473
+03-07 14:49:54.675  1120  1699 I OpenGLRenderer: Davey! duration=2492ms; Flags=1, IntendedVsync=1342650764752, Vsync=1342867431410, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=1342871369700, AnimationStart=1342871420400, PerformTraversalsStart=1342871496000, DrawStart=1344528631700, SyncQueued=1344529890800, SyncStart=1344672512700, IssueDrawCommandsStart=1344672710900, SwapBuffers=1345075091100, FrameCompleted=1345286239700, DequeueBufferDuration=142883300, QueueBufferDuration=49554900, GpuCompleted=1321947843300,
+03-07 14:49:54.693 10428 10459 I OpenGLRenderer: Davey! duration=1557ms; Flags=0, IntendedVsync=1343517431384, Vsync=1345050764656, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=1345057145100, AnimationStart=1345057255600, PerformTraversalsStart=1345059340600, DrawStart=1345059752400, SyncQueued=1345059890200, SyncStart=1345288456400, IssueDrawCommandsStart=1345288530300, SwapBuffers=1345294051300, FrameCompleted=1345303603400, DequeueBufferDuration=232400, QueueBufferDuration=1440000, GpuCompleted=0,
+03-07 14:49:54.703   254   254 I tombstoned: registered intercept for pid 10473 and type kDebuggerdJavaBacktrace
+03-07 14:49:54.712  1120  1120 I Choreographer: Skipped 101 frames!  The application may be doing too much work on its main thread.
+03-07 14:49:54.738 10428 10428 I MonitoringInstr: Activities that are still in CREATED to STOPPED: 1
+03-07 14:49:54.748 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:54.800 10473 10477 I oid.setupwizar: Thread[4,tid=10477,WaitingInMainSignalCatcherLoop,Thread*=0xe9801c10,peer=0x12c80df0,"Signal Catcher"]: reacting to signal 3
+03-07 14:49:54.800 10473 10477 I oid.setupwizar:
+03-07 14:49:54.835 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:54.963 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:55.331   541   570 I Choreographer: Skipped 33 frames!  The application may be doing too much work on its main thread.
+03-07 14:49:55.364 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:55.377  2193 10576 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+03-07 14:49:55.425 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:55.589 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:55.730  2193 10576 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+03-07 14:49:55.762 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:55.912 10428 10453 I chatty  : uid=10175(com.example.lunchtray) roidJUnitRunner identical 2 lines
+03-07 14:49:55.969 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:55.989  2193 10576 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+03-07 14:49:56.062  2193 10576 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+03-07 14:49:56.072  2193 10576 I ExperimentPackageManage: Package com.google.android.art name not found! Using module version.
+03-07 14:49:56.073  2193 10576 I ExperimentPackageManage: Package com.google.android.art name not found! Using module version.
+03-07 14:49:56.076  2193 10576 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+03-07 14:49:56.029 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:56.160   254   254 I tombstoned: received crash request for pid 10473
+03-07 14:49:56.160   254   254 I tombstoned: found intercept fd 512 for pid 10473 and type kDebuggerdJavaBacktrace
+03-07 14:49:56.161 10473 10477 I oid.setupwizar: Wrote stack traces to tombstoned
+03-07 14:49:56.165 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:56.216   541 10608 I system_server: libdebuggerd_client: done dumping process 10473
+03-07 14:49:56.217 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:56.221  2193 10576 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+03-07 14:49:56.237  2193 10576 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+03-07 14:49:56.239  2193 10576 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+03-07 14:49:56.240  2193 10576 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+03-07 14:49:56.241  2193 10576 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+03-07 14:49:56.244  2193 10576 I ExperimentPackageManage: Package com.google.android.adservices name not found! Using module version.
+03-07 14:49:56.248  2193 10576 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+03-07 14:49:56.263  2193 10576 I ExperimentPackageManage: Package 1 name not found! Using module version.
+03-07 14:49:56.271 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:56.324 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:56.326  2193 10576 I ExperimentPackageManage: Package com.google.android.sdksandbox name not found! Using module version.
+03-07 14:49:56.359  2193 10576 W ConfiguratorPhenotypeUt: Package com.google.android.sdksandbox name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.362  2193 10576 W ConfiguratorPhenotypeUt: Package com.google.android.odad name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.375  2193 10576 W ConfiguratorPhenotypeUt: Package com.google.android.as name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.376 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:56.382  2193 10576 W ConfiguratorPhenotypeUt: Package com.android.media.swcodec name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.394  2193 10576 W ConfiguratorPhenotypeUt: Package com.google.android.art name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.396  2193 10576 W ConfiguratorPhenotypeUt: Package com.android.appsearch name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.399  2193 10576 W ConfiguratorPhenotypeUt: Package com.google.android.art name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.408  2193 10576 W ConfiguratorPhenotypeUt: Package com.google.android.adservices name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.411  2193 10576 W ConfiguratorPhenotypeUt: Package com.google.android.as name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.427 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:56.446  2193 10576 W ConfiguratorPhenotypeUt: Package com.android.media name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.478  2193 10576 W ConfiguratorPhenotypeUt: Package com.google.android.as.oss name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.480  2193 10576 W ConfiguratorPhenotypeUt: Package com.google.oslo name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.480 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:56.532   343   343 E Layer   : [Surface(name=Task=1)/@0x49c7d1c - animation-leash#0] No local sync point found
+03-07 14:49:56.533   343   343 E Layer   : [Surface(name=Task=225)/@0xce9e37f - animation-leash#0] No local sync point found
+03-07 14:49:56.545 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:56.522  1641  2490 I A       : getLocaleToModelSpecsMap
+03-07 14:49:56.628  1641  2490 I A       : Using proto config with mendel
+03-07 14:49:56.638 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:56.646  1641  2490 W A       : (REDACTED) Queue length for executor %s is now %d. Perhaps some tasks are too long, or the pool is too small.
+03-07 14:49:56.650  2193 10576 W ConfiguratorPhenotypeUt: Package com.android.refreshratecontrol name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.653  2193 10576 W ConfiguratorPhenotypeUt: Package com.android.media name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.656  2193 10576 W ConfiguratorPhenotypeUt: Package com.android.neuralnetworks name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.661  2193 10576 W ConfiguratorPhenotypeUt: Package 1 name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:49:56.691 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:56.751 10428 10453 I MonitoringInstr: Unstopped activity count: 1
+03-07 14:49:56.786   443   443 E netmgr  : qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument
+03-07 14:49:56.786   443   443 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[Signal Catcher,10,system]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[Binder:10428_1,5,main]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[Binder:10428_2,5,main]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[main,5,main]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.graphics.HardwareRenderer.nDestroy(Native Method)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.graphics.HardwareRenderer.destroy(HardwareRenderer.java:184)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.view.ThreadedRenderer.destroy(ThreadedRenderer.java:307)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.view.ViewRootImpl.destroyHardwareResources(ViewRootImpl.java:1225)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2439)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1952)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:8171)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.view.Choreographer$CallbackRecord.run(Choreographer.java:972)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.view.Choreographer.doCallbacks(Choreographer.java:796)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.view.Choreographer.doFrame(Choreographer.java:731)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:957)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.Handler.handleCallback(Handler.java:938)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.Handler.dispatchMessage(Handler.java:99)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.Looper.loop(Looper.java:223)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.app.ActivityThread.main(ActivityThread.java:7656)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.reflect.Method.invoke(Native Method)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[queued-work-looper,5,main]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.MessageQueue.nativePollOnce(Native Method)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.MessageQueue.next(MessageQueue.java:335)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.Looper.loop(Looper.java:183)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.HandlerThread.run(HandlerThread.java:67)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[Jit thread pool worker thread 0,5,system]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[Instr: androidx.test.runner.AndroidJUnitRunner,5,main]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     dalvik.system.VMStack.getThreadStackTrace(Native Method)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Thread.getStackTrace(Thread.java:1736)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Thread.getAllStackTraces(Thread.java:1812)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     androidx.test.runner.MonitoringInstrumentation.getThreadState(MonitoringInstrumentation.java:699)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     androidx.test.runner.MonitoringInstrumentation.dumpThreadStateToOutputs(MonitoringInstrumentation.java:694)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     androidx.test.runner.MonitoringInstrumentation.waitForActivitiesToComplete(MonitoringInstrumentation.java:420)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     androidx.test.runner.AndroidJUnitRunner$1.run(AndroidJUnitRunner.java:500)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     androidx.test.internal.runner.listener.ActivityFinisherRunListener.testStarted(ActivityFinisherRunListener.java:48)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runner.notification.SynchronizedRunListener.testStarted(SynchronizedRunListener.java:49)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runner.notification.RunNotifier$3.notifyListener(RunNotifier.java:121)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runner.notification.RunNotifier$SafeNotifier.run(RunNotifier.java:72)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runner.notification.RunNotifier.fireTestStarted(RunNotifier.java:118)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.internal.runners.model.EachTestNotifier.fireTestStarted(EachTestNotifier.java:42)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:323)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.Suite.runChild(Suite.java:128)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.Suite.runChild(Suite.java:27)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2205)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[FinalizerDaemon,5,system]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Object.wait(Native Method)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Object.wait(Object.java:442)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:190)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:211)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Daemons$FinalizerDaemon.runInternal(Daemons.java:273)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Daemons$Daemon.run(Daemons.java:139)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Thread.run(Thread.java:923)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[Espresso Remote #0,5,main]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     sun.misc.Unsafe.park(Native Method)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:230)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2109)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1091)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1152)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Thread.run(Thread.java:923)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[Binder:10428_4,5,main]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[InsetsAnimations,5,main]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.MessageQueue.nativePollOnce(Native Method)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.MessageQueue.next(MessageQueue.java:335)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.Looper.loop(Looper.java:183)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.HandlerThread.run(HandlerThread.java:67)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[InstrumentationConnectionThread,5,main]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.MessageQueue.nativePollOnce(Native Method)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.MessageQueue.next(MessageQueue.java:335)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.Looper.loop(Looper.java:183)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     android.os.HandlerThread.run(HandlerThread.java:67)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[RenderThread,7,main]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[HeapTaskDaemon,5,system]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[Profile Saver,5,system]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[ReferenceQueueDaemon,5,system]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Object.wait(Native Method)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Object.wait(Object.java:442)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Object.wait(Object.java:568)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Daemons$ReferenceQueueDaemon.runInternal(Daemons.java:217)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Daemons$Daemon.run(Daemons.java:139)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Thread.run(Thread.java:923)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[FinalizerWatchdogDaemon,5,system]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Object.wait(Native Method)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Object.wait(Object.java:442)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Object.wait(Object.java:568)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Daemons$FinalizerWatchdogDaemon.sleepUntilNeeded(Daemons.java:341)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Daemons$FinalizerWatchdogDaemon.runInternal(Daemons.java:321)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Daemons$Daemon.run(Daemons.java:139)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Thread.run(Thread.java:923)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[Espresso Key Event #0,5,main]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     sun.misc.Unsafe.park(Native Method)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.util.concurrent.locks.LockSupport.park(LockSupport.java:190)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2067)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1092)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1152)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:     java.lang.Thread.run(Thread.java:923)
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:   Thread[Binder:10428_3,5,main]
+03-07 14:49:56.946 10428 10453 E THREAD_STATE:
+03-07 14:49:56.946 10428 10453 W MonitoringInstr: Still 1 activities active after waiting 2000 ms.
+03-07 14:49:57.001 10428 10453 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+03-07 14:49:57.040 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@8915c55 in: STOPPED
+03-07 14:49:57.040 10428 10428 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@8915c55
+03-07 14:49:57.043 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 9 lines
+03-07 14:49:57.043 10428 10428 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@8915c55
+03-07 14:49:57.063 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@8915c55 in: DESTROYED
+03-07 14:49:57.063 10428 10428 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+03-07 14:49:57.063 10428 10428 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+03-07 14:49:57.072  1006  1016 I m.android.phon: Background concurrent copying GC freed 28193(2288KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 2656KB/5313KB, paused 117.802ms total 1.045s
+03-07 14:49:57.120 10428 10428 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+03-07 14:49:57.121 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 7 lines
+03-07 14:49:57.121 10428 10428 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+03-07 14:49:57.145   343   343 W SurfaceFlinger: couldn't log to binary event log: overflow.
+03-07 14:49:57.164   261   261 I Zygote  : Process 10473 exited due to signal 9 (Killed)
+03-07 14:49:57.166   541   579 I libprocessgroup: Successfully killed process cgroup uid 10100 pid 10473 in 909ms
+03-07 14:49:57.306  1641  2490 I A       : getLocaleToModelSpecsMap
+03-07 14:49:57.308  1641  2490 I A       : Using proto config with mendel
+03-07 14:49:57.311  1641  2490 W A       : (REDACTED) Task %s was queued for %dms before starting on executor %s
+03-07 14:49:57.341 10119 10119 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.checkin.START pkg=com.google.android.gms }
+03-07 14:49:57.417   541  1456 D HostConnection: HostConnection::get() New Host Connection established 0xc129c5c0, tid 1456
+03-07 14:49:57.429   541   569 D EventSequenceValidator: Transition from ACTIVITY_FINISHED to INTENT_STARTED
+03-07 14:49:57.500   541   636 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.500   541   636 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.500   541   636 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.500   541   636 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.501   541   636 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.501   541   636 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.501   541   636 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.501   541   636 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.501   541   636 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.501   541   636 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.501   541   636 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.502   541   636 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.502   541   636 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.502   541   636 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.502   541   636 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.502   541   636 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.502   541   636 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.502   541   636 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.503   541   636 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.503   541   636 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:57.525   451   451 E wifi_forwarder: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:wififorward' service: Invalid argument
+03-07 14:49:57.525   451   451 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+03-07 14:49:57.532   541  1456 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+03-07 14:49:57.569   541  1456 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+03-07 14:49:57.592 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845 in: PRE_ON_CREATE
+03-07 14:49:57.592 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:49:57.591   541   569 D EventSequenceValidator: Transition from INTENT_STARTED to ACTIVITY_LAUNCHED
+03-07 14:49:57.592 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:49:57.595 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 9 lines
+03-07 14:49:57.595 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:49:57.649   280  7979 D goldfish-address-space: claimShared: Ask to claim region [0x3f2594000 0x3f2ef9000]
+03-07 14:49:58.172 10119 10616 D SharedPreferencesImpl: Time required to fsync /data/user/0/com.google.android.gms/shared_prefs/com.google.android.gms.safetynet.xml: [<1: 0, <2: 0, <4: 0, <8: 0, <16: 1, <32: 0, <64: 0, <128: 0, <256: 0, <512: 0, <1024: 1, <2048: 0, <4096: 0, <8192: 0, <16384: 0, >=16384: 0]
+03-07 14:49:58.623   541  1456 D EGL_emulation: eglCreateContext: 0xc129adb0: maj 2 min 0 rcv 2
+03-07 14:49:58.807 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845 in: CREATED
+03-07 14:49:58.808 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:49:58.813 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 10 lines
+03-07 14:49:58.813 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:49:58.831 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845 in: STARTED
+03-07 14:49:58.832 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:49:58.833 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 10 lines
+03-07 14:49:58.834 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:49:58.879 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845 in: RESUMED
+03-07 14:49:58.880 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:49:58.881 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 10 lines
+03-07 14:49:58.883 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:49:58.989 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845 in: PAUSED
+03-07 14:49:58.989 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:49:58.994 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 10 lines
+03-07 14:49:58.994 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:49:58.997   541   554 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.997   541   554 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.997   541   554 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.997   541   554 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.997   541   554 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.997   541   554 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.997   541   554 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.997   541   554 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.997   541   554 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.997   541   554 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.998   541   554 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.998   541  1456 D EGL_emulation: eglMakeCurrent: 0xc129adb0: ver 2 0 (tinfo 0xc29f1b10) (first time)
+03-07 14:49:58.999   541   554 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.999   541   554 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.999   541   554 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.999   541   554 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.999   541   554 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.999   541   554 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.999   541   554 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.999   541   554 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:58.999   541   554 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-07 14:49:59.037 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@20d13f2 in: PRE_ON_CREATE
+03-07 14:49:59.037 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+03-07 14:49:59.038 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 9 lines
+03-07 14:49:59.038 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+03-07 14:49:59.038 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+03-07 14:49:59.087   945   956 I rkstack.proces: Background concurrent copying GC freed 13565(910KB) AllocSpace objects, 75(2900KB) LOS objects, 49% free, 2267KB/4534KB, paused 10.927ms total 1.564s
+03-07 14:49:59.104 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@20d13f2 in: CREATED
+03-07 14:49:59.104 10428 10428 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@20d13f2
+03-07 14:49:59.105 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 10 lines
+03-07 14:49:59.105 10428 10428 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@20d13f2
+03-07 14:49:59.116 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@20d13f2 in: STARTED
+03-07 14:49:59.116 10428 10428 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@20d13f2
+03-07 14:49:59.117 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 10 lines
+03-07 14:49:59.117 10428 10428 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@20d13f2
+03-07 14:49:59.122 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@20d13f2 in: RESUMED
+03-07 14:49:59.129 10428 10428 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@20d13f2
+03-07 14:49:59.168 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 10 lines
+03-07 14:49:59.168 10428 10428 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@20d13f2
+03-07 14:49:59.268   541   570 I Choreographer: Skipped 99 frames!  The application may be doing too much work on its main thread.
+03-07 14:49:59.296   280  7979 D goldfish-address-space: claimShared: Ask to claim region [0x3f67ee000 0x3f7153000]
+03-07 14:49:59.632   280  7979 D goldfish-address-space: claimShared: Ask to claim region [0x3f7153000 0x3f7ab8000]
+03-07 14:49:59.830   280  7979 D goldfish-address-space: claimShared: Ask to claim region [0x3f4bbf000 0x3f5524000]
+03-07 14:49:59.852   280  7979 D goldfish-address-space: claimShared: Ask to claim region [0x3f0965000 0x3f12ca000]
+03-07 14:50:00.013 10428 10459 I OpenGLRenderer: Davey! duration=799ms; Flags=1, IntendedVsync=1349800785903, Vsync=1349817452569, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=1349821904300, AnimationStart=1349821968400, PerformTraversalsStart=1349822236100, DrawStart=1350438409000, SyncQueued=1350439404300, SyncStart=1350462881600, IssueDrawCommandsStart=1350514966900, SwapBuffers=1350517571400, FrameCompleted=1350623692300, DequeueBufferDuration=955300, QueueBufferDuration=31345800, GpuCompleted=0,
+03-07 14:50:00.020 10428 10428 I Choreographer: Skipped 43 frames!  The application may be doing too much work on its main thread.
+03-07 14:50:00.543  1641  2449 I PBSessionCacheImpl: (REDACTED) Deleted sessionId[%d] from persistence.
+03-07 14:50:00.557   541   570 I Choreographer: Skipped 61 frames!  The application may be doing too much work on its main thread.
+03-07 14:50:00.596   541   569 D EventSequenceValidator: Transition from ACTIVITY_LAUNCHED to ACTIVITY_FINISHED
+03-07 14:50:00.601 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845 in: STOPPED
+03-07 14:50:00.602 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:50:00.644 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 10 lines
+03-07 14:50:00.644 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8a7b845
+03-07 14:50:00.668   541   574 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.lunchtray/1/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity/compiled_traces/compiled_trace.pb doesn't exist
+03-07 14:50:00.675   541   574 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +3s123ms
+03-07 14:50:00.990  1641  2490 W SearchServiceCore: Abort, client detached.
+03-07 14:50:01.417 10428 10428 I Choreographer: Skipped 45 frames!  The application may be doing too much work on its main thread.
+03-07 14:50:01.503 10428 10459 I OpenGLRenderer: Davey! duration=1083ms; Flags=1, IntendedVsync=1351017453184, Vsync=1351250786508, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=1351261973000, AnimationStart=1351262028600, PerformTraversalsStart=1351263194200, DrawStart=1351633012100, SyncQueued=1351840373800, SyncStart=1351853309600, IssueDrawCommandsStart=1351853675400, SwapBuffers=1351994701500, FrameCompleted=1352113971500, DequeueBufferDuration=7654300, QueueBufferDuration=11613600, GpuCompleted=0,
+03-07 14:50:01.551 10428 10459 I OpenGLRenderer: Davey! duration=806ms; Flags=0, IntendedVsync=1351267440762, Vsync=1352017440732, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=1352028470800, AnimationStart=1352028537100, PerformTraversalsStart=1352029168000, DrawStart=1352029831800, SyncQueued=1352032920800, SyncStart=1352121062000, IssueDrawCommandsStart=1352121289700, SwapBuffers=1352123745400, FrameCompleted=1352162187200, DequeueBufferDuration=26777600, QueueBufferDuration=5476000, GpuCompleted=0,
+03-07 14:50:01.600 10428 10428 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231081/com.example.lunchtray:id/next_button>
+03-07 14:50:01.819   541  1906 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:01.820   339   430 D AF::Track: interceptBuffer: took 6573us to intercept 0 tracks
+03-07 14:50:01.821   541  1906 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:01.977   541  1906 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: Phenotype bulk platform registration failed. [CONTEXT service_id=204 ]
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: java.util.concurrent.TimeoutException: Timed out waiting for Task
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at braz.m(:com.google.android.gms@230514040@23.05.14 (150700-509319212):6)
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at bilt.f(:com.google.android.gms@230514040@23.05.14 (150700-509319212):9)
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.b(:com.google.android.gms@230514040@23.05.14 (150700-509319212):26)
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.c(:com.google.android.gms@230514040@23.05.14 (150700-509319212):0)
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):6)
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):2)
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at xqs.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):4)
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at gqh.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):3)
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at gqg.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):11)
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at cnqy.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):2)
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+03-07 14:50:02.826  2193 10576 W ConfiguratorPhenotypeUt: 	at java.lang.Thread.run(Thread.java:923)
+03-07 14:50:02.826  2193 10576 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+03-07 14:50:02.827  2193 10576 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+03-07 14:50:02.828  2193 10576 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+03-07 14:50:02.829  2193 10576 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+03-07 14:50:02.829  2193 10576 I ExperimentPackageManage: Package com.google.android.art name not found! Using module version.
+03-07 14:50:02.831  2193 10576 I ExperimentPackageManage: Package com.google.android.art name not found! Using module version.
+03-07 14:50:02.838  2193 10576 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+03-07 14:50:02.839  2193 10576 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+03-07 14:50:02.839  2193 10576 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+03-07 14:50:02.840  2193 10576 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+03-07 14:50:02.841  2193 10576 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+03-07 14:50:02.841  2193 10576 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+03-07 14:50:02.842  2193 10576 I ExperimentPackageManage: Package com.google.android.adservices name not found! Using module version.
+03-07 14:50:02.843  2193 10576 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+03-07 14:50:02.844  2193 10576 I ExperimentPackageManage: Package 1 name not found! Using module version.
+03-07 14:50:02.846  2193 10576 I ExperimentPackageManage: Package com.google.android.sdksandbox name not found! Using module version.
+03-07 14:50:02.956  2193 10576 W PhenotypeConfigurationU: Update for unknown DeviceConfig package com.google.android.libraries.performance.primes#com.google.android.gms [CONTEXT service_id=204 ]
+03-07 14:50:02.956  2193 10576 W PhenotypeConfigurationU: bily: No package exists for config package: com.google.android.libraries.performance.primes#com.google.android.gms
+03-07 14:50:02.956  2193 10576 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@230514040@23.05.14 (150700-509319212):7)
+03-07 14:50:02.956  2193 10576 W PhenotypeConfigurationU: 	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):7)
+03-07 14:50:02.956  2193 10576 W PhenotypeConfigurationU: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):2)
+03-07 14:50:02.956  2193 10576 W PhenotypeConfigurationU: 	at xqs.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):4)
+03-07 14:50:02.956  2193 10576 W PhenotypeConfigurationU: 	at gqh.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):3)
+03-07 14:50:02.956  2193 10576 W PhenotypeConfigurationU: 	at gqg.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):11)
+03-07 14:50:02.956  2193 10576 W PhenotypeConfigurationU: 	at cnqy.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):2)
+03-07 14:50:02.956  2193 10576 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+03-07 14:50:02.956  2193 10576 W PhenotypeConfigurationU: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+03-07 14:50:02.956  2193 10576 W PhenotypeConfigurationU: 	at java.lang.Thread.run(Thread.java:923)
+03-07 14:50:03.067  2193  2271 I .gms.persisten: Waiting for a blocking GC ProfileSaver
+03-07 14:50:03.068 10428 10453 I TestRunner: finished: navigate_to_side_menu_from_entree_menu(com.example.lunchtray.NavigationTests)

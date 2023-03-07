@@ -1,0 +1,188 @@
+03-07 14:50:04.739 10428 10453 I TestRunner: started: radio_buttons_update_side_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+03-07 14:50:04.760 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@20d13f2 in: DESTROYED
+03-07 14:50:04.760 10428 10428 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+03-07 14:50:04.783 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 10 lines
+03-07 14:50:04.783 10428 10428 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+03-07 14:50:04.786  1641  2490 I A       : getLocaleToModelSpecsMap
+03-07 14:50:04.786  1641  2490 I A       : Using proto config with mendel
+03-07 14:50:04.793  1641  2490 W A       : (REDACTED) Task %s was queued for %dms before starting on executor %s
+03-07 14:50:04.822   266  4584 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+03-07 14:50:04.874 10428 10453 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+03-07 14:50:04.887   266  4584 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+03-07 14:50:04.910   541   569 D EventSequenceValidator: Transition from ACTIVITY_FINISHED to INTENT_STARTED
+03-07 14:50:04.940   266  4584 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+03-07 14:50:04.947   541   636 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:04.955   541   569 D EventSequenceValidator: Transition from INTENT_STARTED to ACTIVITY_LAUNCHED
+03-07 14:50:04.956   541  2014 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.956   541  2014 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.956   541  2014 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.956   541  2014 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.956   541  2014 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.956   541  2014 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.956   541  2014 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.956   541  2014 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.956   541  2014 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.956   541  2014 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.959   541  1456 D HostConnection: HostConnection::get() New Host Connection established 0xc128a880, tid 1456
+03-07 14:50:04.960   541  2014 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.960   541  2014 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.961   541  2014 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.961   541  2014 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.961   541  2014 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.964   541  2014 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.964   541  2014 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.964   541  2014 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.964   541  2014 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.964   541  2014 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:04.970   541  1456 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: Retrieving snapshot for com.google.android.gms.learning#com.google.android.gms failed
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: java.util.concurrent.TimeoutException: Timed out waiting for Task
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at braz.m(:com.google.android.gms@230514040@23.05.14 (150700-509319212):6)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at biga.c(:com.google.android.gms@230514040@23.05.14 (150700-509319212):2)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at biga.i(:com.google.android.gms@230514040@23.05.14 (150700-509319212):2)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at biga.f(:com.google.android.gms@230514040@23.05.14 (150700-509319212):0)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at zjq.d(:com.google.android.gms@230514040@23.05.14 (150700-509319212):6)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at com.google.android.gms.common.config.PhenotypeUpdateOperation.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):10)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):2)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at xqs.onHandleIntent(:com.google.android.gms@230514040@23.05.14 (150700-509319212):4)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at gqh.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):3)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at gqg.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):11)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at cnqy.run(:com.google.android.gms@230514040@23.05.14 (150700-509319212):2)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+03-07 14:50:04.986  2193 10576 E PhenotypeFlagCommitter: 	at java.lang.Thread.run(Thread.java:923)
+03-07 14:50:05.006  2193 10626 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+03-07 14:50:05.006   280   319 D goldfish-address-space: claimShared: Ask to claim region [0x3f0965000 0x3f12ca000]
+03-07 14:50:05.015 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6 in: PRE_ON_CREATE
+03-07 14:50:05.015 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6
+03-07 14:50:05.017 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 11 lines
+03-07 14:50:05.017 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6
+03-07 14:50:05.045  2193 10626 I ExperimentPackageManage: Package com.android.refreshratecontrol name not found! Using module version.
+03-07 14:50:05.054  2193 10626 I ExperimentPackageManage: Package com.google.android.as name not found! Using module version.
+03-07 14:50:05.055 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6 in: CREATED
+03-07 14:50:05.057 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6
+03-07 14:50:05.059 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 11 lines
+03-07 14:50:05.059 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6
+03-07 14:50:05.070  2193 10626 I ExperimentPackageManage: Package com.google.oslo name not found! Using module version.
+03-07 14:50:05.071 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6 in: STARTED
+03-07 14:50:05.072  2193 10626 I ExperimentPackageManage: Package com.google.android.art name not found! Using module version.
+03-07 14:50:05.072 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6
+03-07 14:50:05.073 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 11 lines
+03-07 14:50:05.073 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6
+03-07 14:50:05.081  2193 10626 I ExperimentPackageManage: Package com.google.android.art name not found! Using module version.
+03-07 14:50:05.088 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6 in: RESUMED
+03-07 14:50:05.088 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6
+03-07 14:50:05.091 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 11 lines
+03-07 14:50:05.091 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6
+03-07 14:50:05.095  2193 10626 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+03-07 14:50:05.102 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6 in: PAUSED
+03-07 14:50:05.102 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6
+03-07 14:50:05.107 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 11 lines
+03-07 14:50:05.107 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6
+03-07 14:50:05.109   541   554 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.109   541   554 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.109   541   554 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.109   541   554 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.109   541   554 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.109   541   554 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.109   541   554 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.109   541   554 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.109   541   554 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.109   541   554 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.110   541   554 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.110   541   554 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.110   541   554 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.110   541   554 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.110   541   554 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.110   541   554 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.110   541   554 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.110   541   554 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.110   541   554 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.110   541   554 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-07 14:50:05.121   541  1456 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+03-07 14:50:05.122  2193 10626 I ExperimentPackageManage: Package com.android.media.swcodec name not found! Using module version.
+03-07 14:50:05.140 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b6bef1f in: PRE_ON_CREATE
+03-07 14:50:05.140 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+03-07 14:50:05.142 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 10 lines
+03-07 14:50:05.142 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+03-07 14:50:05.142 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+03-07 14:50:05.160 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b6bef1f in: CREATED
+03-07 14:50:05.161 10428 10428 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b6bef1f
+03-07 14:50:05.163 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 11 lines
+03-07 14:50:05.163 10428 10428 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b6bef1f
+03-07 14:50:05.170 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b6bef1f in: STARTED
+03-07 14:50:05.170 10428 10428 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b6bef1f
+03-07 14:50:05.171 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 11 lines
+03-07 14:50:05.171 10428 10428 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b6bef1f
+03-07 14:50:05.174 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b6bef1f in: RESUMED
+03-07 14:50:05.174 10428 10428 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b6bef1f
+03-07 14:50:05.179 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 11 lines
+03-07 14:50:05.179 10428 10428 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@b6bef1f
+03-07 14:50:05.191  2193 10626 I ExperimentPackageManage: Package com.android.appsearch name not found! Using module version.
+03-07 14:50:05.208  2193 10626 I ExperimentPackageManage: Package com.android.neuralnetworks name not found! Using module version.
+03-07 14:50:05.209  2193 10626 I ExperimentPackageManage: Package com.google.android.odad name not found! Using module version.
+03-07 14:50:05.210  2193 10626 I ExperimentPackageManage: Package com.android.media name not found! Using module version.
+03-07 14:50:05.218  2193 10626 I ExperimentPackageManage: Package com.google.android.adservices name not found! Using module version.
+03-07 14:50:05.256   280   319 D goldfish-address-space: claimShared: Ask to claim region [0x3f4bbf000 0x3f5524000]
+03-07 14:50:05.284   280   319 D goldfish-address-space: claimShared: Ask to claim region [0x3f5e89000 0x3f67ee000]
+03-07 14:50:05.293   541  1456 D EGL_emulation: eglCreateContext: 0xc128a6c0: maj 2 min 0 rcv 2
+03-07 14:50:05.323   280   319 D goldfish-address-space: claimShared: Ask to claim region [0x3f425a000 0x3f4bbf000]
+03-07 14:50:05.353  2193 10626 I ExperimentPackageManage: Package com.google.android.as.oss name not found! Using module version.
+03-07 14:50:05.361  2193 10626 I ExperimentPackageManage: Package 1 name not found! Using module version.
+03-07 14:50:05.363   280   319 D goldfish-address-space: claimShared: Ask to claim region [0x3f5524000 0x3f5e89000]
+03-07 14:50:05.373  2193 10626 I ExperimentPackageManage: Package com.google.android.sdksandbox name not found! Using module version.
+03-07 14:50:05.387   541  1456 D EGL_emulation: eglMakeCurrent: 0xc128a6c0: ver 2 0 (tinfo 0xc29f1b10) (first time)
+03-07 14:50:05.404  2193 10626 W ConfiguratorPhenotypeUt: Package com.google.android.sdksandbox name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.432  2193 10626 W ConfiguratorPhenotypeUt: Package com.google.android.odad name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.443  2193 10626 W ConfiguratorPhenotypeUt: Package com.google.android.as name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.501  2193 10626 W ConfiguratorPhenotypeUt: Package com.android.media.swcodec name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.503  2193 10626 W ConfiguratorPhenotypeUt: Package com.google.android.art name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.505  2193 10626 W ConfiguratorPhenotypeUt: Package com.android.appsearch name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.512  2193 10626 W ConfiguratorPhenotypeUt: Package com.google.android.art name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.540  2193 10626 W ConfiguratorPhenotypeUt: Package com.google.android.adservices name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.550  2193 10626 W ConfiguratorPhenotypeUt: Package com.google.android.as name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.551  2193 10626 W ConfiguratorPhenotypeUt: Package com.android.media name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.553  2193 10626 W ConfiguratorPhenotypeUt: Package com.google.android.as.oss name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.555  2193 10626 W ConfiguratorPhenotypeUt: Package com.google.oslo name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.568 10428 10428 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6 in: STOPPED
+03-07 14:50:05.569 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6
+03-07 14:50:05.573 10428 10428 I chatty  : uid=10175(com.example.lunchtray) identical 11 lines
+03-07 14:50:05.573 10428 10428 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1b7ace6
+03-07 14:50:05.604   541   574 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.lunchtray/1/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity/compiled_traces/compiled_trace.pb doesn't exist
+03-07 14:50:05.606   541   574 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +663ms
+03-07 14:50:05.558  2193 10626 W ConfiguratorPhenotypeUt: Package com.android.refreshratecontrol name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.680  2193 10626 W ConfiguratorPhenotypeUt: Package com.android.media name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.688   541   569 D EventSequenceValidator: Transition from ACTIVITY_LAUNCHED to ACTIVITY_FINISHED
+03-07 14:50:05.783  1641  2490 I PBSessionCacheImpl: (REDACTED) Deleted sessionId[%d] from persistence.
+03-07 14:50:05.822  2193 10626 W ConfiguratorPhenotypeUt: Package com.android.neuralnetworks name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:05.846  2193 10626 W ConfiguratorPhenotypeUt: Package 1 name not found! Using module version. [CONTEXT service_id=204 ]
+03-07 14:50:06.144   541   570 I Choreographer: Skipped 49 frames!  The application may be doing too much work on its main thread.
+03-07 14:50:06.258  1641  2490 W SearchServiceCore: Abort, client detached.
+03-07 14:50:06.263 10428 10428 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231138/com.example.lunchtray:id/salad>
+03-07 14:50:06.564   339   430 D AudioFlinger: mixer(0xf09cd030) throttle end: throttle time(29)
+03-07 14:50:06.573   541   554 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:06.601   541   554 I chatty  : uid=1000(system) Binder:541_1 identical 1 line
+03-07 14:50:06.613   541   554 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:06.624   266  4584 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+03-07 14:50:06.670   541  1906 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:06.951 10428 10428 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $2.50"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+03-07 14:50:06.972 10428 10428 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231187/com.example.lunchtray:id/soup>
+03-07 14:50:07.172   541   554 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:07.227   339   430 D AudioFlinger: mixer(0xf09cd030) throttle end: throttle time(5)
+03-07 14:50:07.312   541  2000 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:07.861 10428 10428 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $3.00"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+03-07 14:50:07.867 10428 10428 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231121/com.example.lunchtray:id/potatoes>
+03-07 14:50:08.088   541   636 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:08.218   541   636 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:08.504 10428 10428 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $2.00"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+03-07 14:50:08.519 10428 10428 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231128/com.example.lunchtray:id/rice>
+03-07 14:50:08.777   541   554 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:08.817   339   430 D AudioFlinger: mixer(0xf09cd030) throttle end: throttle time(11)
+03-07 14:50:08.872   541   636 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-07 14:50:08.932   541  1456 D HostConnection: HostConnection::get() New Host Connection established 0xc128a880, tid 1456
+03-07 14:50:08.952   541  1456 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+03-07 14:50:08.953   541  1456 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+03-07 14:50:09.006   541  1456 D EGL_emulation: eglCreateContext: 0xc128a500: maj 2 min 0 rcv 2
+03-07 14:50:09.032   541  1456 D EGL_emulation: eglMakeCurrent: 0xc128a500: ver 2 0 (tinfo 0xc29f1b10) (first time)
+03-07 14:50:09.136 10428 10428 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $1.50"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+03-07 14:50:09.137 10428 10453 I TestRunner: finished: radio_buttons_update_side_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
