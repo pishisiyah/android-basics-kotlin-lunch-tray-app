@@ -16,8 +16,12 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\com.example.lunchtray.app-main-49:\\layout\\fragment_checkout.xml"
     },
     {
-        "merged": "com.example.lunchtray.app-merged_res-47:/layout_fragment_accompaniment_menu.xml.flat",
-        "source": "com.example.lunchtray.app-main-49:/layout/fragment_accompaniment_menu.xml"
+        "merged": "com.example.lunchtray.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.example.lunchtray.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.lunchtray.app-merged_res-47:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.lunchtray.app-main-49:/navigation/mobile_navigation.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\com.example.lunchtray.app-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
@@ -50,13 +54,5 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\com.example.lunchtray.app-merged_res-47:\\layout_fragment_side_menu.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\com.example.lunchtray.app-main-49:\\layout\\fragment_side_menu.xml"
-    },
-    {
-        "merged": "com.example.lunchtray.app-merged_res-47:/layout_fragment_checkout.xml.flat",
-        "source": "com.example.lunchtray.app-main-49:/layout/fragment_checkout.xml"
-    },
-    {
-        "merged": "com.example.lunchtray.app-merged_res-47:/layout_fragment_side_menu.xml.flat",
-        "source": "com.example.lunchtray.app-main-49:/layout/fragment_side_menu.xml"
     }
 ]
