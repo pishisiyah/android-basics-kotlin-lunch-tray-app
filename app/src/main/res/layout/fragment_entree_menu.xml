@@ -199,7 +199,7 @@
             <!-- TODO: go to the next screen when clicked -->
             <Button
                 android:id="@+id/next_button"
-                android:onClick="@{() -> EntreeMenuFragment.goToNextScreen()"
+                android:onClick="@{() -> EntreeMenuFragment.goToNextScreen()}"
                 style="@style/Widget.Order.Button.Next"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"

@@ -14,9 +14,8 @@ public class FragmentEntreeMenuBindingImpl extends FragmentEntreeMenuBinding imp
     static {
         sIncludes = null;
         sViewsWithIds = new android.util.SparseIntArray();
-        sViewsWithIds.put(R.id.entree_options, 15);
-        sViewsWithIds.put(R.id.divider, 16);
-        sViewsWithIds.put(R.id.next_button, 17);
+        sViewsWithIds.put(R.id.entree_options, 16);
+        sViewsWithIds.put(R.id.divider, 17);
     }
     // views
     @NonNull
@@ -32,6 +31,8 @@ public class FragmentEntreeMenuBindingImpl extends FragmentEntreeMenuBinding imp
     private final android.view.View.OnClickListener mCallback13;
     @Nullable
     private final android.view.View.OnClickListener mCallback14;
+    @Nullable
+    private final android.view.View.OnClickListener mCallback18;
     // values
     // listeners
     // Inverse Binding Event Handlers
@@ -48,9 +49,9 @@ public class FragmentEntreeMenuBindingImpl extends FragmentEntreeMenuBinding imp
             , (android.widget.RadioButton) bindings[4]
             , (android.widget.TextView) bindings[5]
             , (android.widget.TextView) bindings[6]
-            , (android.view.View) bindings[16]
-            , (android.widget.RadioGroup) bindings[15]
-            , (android.widget.Button) bindings[17]
+            , (android.view.View) bindings[17]
+            , (android.widget.RadioGroup) bindings[16]
+            , (android.widget.Button) bindings[15]
             , (android.widget.RadioButton) bindings[7]
             , (android.widget.TextView) bindings[8]
             , (android.widget.TextView) bindings[9]
@@ -68,6 +69,7 @@ public class FragmentEntreeMenuBindingImpl extends FragmentEntreeMenuBinding imp
         this.chiliPrice.setTag(null);
         this.mboundView0 = (android.widget.ScrollView) bindings[0];
         this.mboundView0.setTag(null);
+        this.nextButton.setTag(null);
         this.pasta.setTag(null);
         this.pastaDescription.setTag(null);
         this.pastaPrice.setTag(null);
@@ -82,6 +84,7 @@ public class FragmentEntreeMenuBindingImpl extends FragmentEntreeMenuBinding imp
         mCallback17 = new com.example.lunchtray.generated.callback.OnClickListener(this, 5);
         mCallback13 = new com.example.lunchtray.generated.callback.OnClickListener(this, 1);
         mCallback14 = new com.example.lunchtray.generated.callback.OnClickListener(this, 2);
+        mCallback18 = new com.example.lunchtray.generated.callback.OnClickListener(this, 6);
         invalidateAll();
     }
 
@@ -263,6 +266,7 @@ public class FragmentEntreeMenuBindingImpl extends FragmentEntreeMenuBinding imp
             this.cancelButton.setOnClickListener(mCallback17);
             this.cauliflower.setOnClickListener(mCallback13);
             this.chili.setOnClickListener(mCallback14);
+            this.nextButton.setOnClickListener(mCallback18);
             this.pasta.setOnClickListener(mCallback15);
             this.skillet.setOnClickListener(mCallback16);
         }
@@ -378,6 +382,23 @@ public class FragmentEntreeMenuBindingImpl extends FragmentEntreeMenuBinding imp
 
 
                     viewModel.setEntree("chili");
+                }
+                break;
+            }
+            case 6: {
+                // localize variables for thread safety
+                // EntreeMenuFragment
+                com.example.lunchtray.ui.order.EntreeMenuFragment entreeMenuFragment = mEntreeMenuFragment;
+                // EntreeMenuFragment != null
+                boolean entreeMenuFragmentJavaLangObjectNull = false;
+
+
+
+                entreeMenuFragmentJavaLangObjectNull = (entreeMenuFragment) != (null);
+                if (entreeMenuFragmentJavaLangObjectNull) {
+
+
+                    entreeMenuFragment.goToNextScreen();
                 }
                 break;
             }
