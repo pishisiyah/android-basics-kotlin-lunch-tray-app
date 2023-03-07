@@ -201,7 +201,7 @@
             <!-- TODO: go to the next screen when clicked -->
             <Button
                 android:id="@+id/next_button"
-                android:onClick="@{() -> SideMenuFragment.goToNextScreen()"
+                android:onClick="@{() -> SideMenuFragment.goToNextScreen()}"
                 style="@style/Widget.Order.Button.Next"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"

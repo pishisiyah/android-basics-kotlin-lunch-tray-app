@@ -14,9 +14,8 @@ public class FragmentSideMenuBindingImpl extends FragmentSideMenuBinding impleme
     static {
         sIncludes = null;
         sViewsWithIds = new android.util.SparseIntArray();
-        sViewsWithIds.put(R.id.side_options, 15);
-        sViewsWithIds.put(R.id.divider, 16);
-        sViewsWithIds.put(R.id.next_button, 17);
+        sViewsWithIds.put(R.id.side_options, 16);
+        sViewsWithIds.put(R.id.divider, 17);
     }
     // views
     @NonNull
@@ -28,6 +27,8 @@ public class FragmentSideMenuBindingImpl extends FragmentSideMenuBinding impleme
     private final android.view.View.OnClickListener mCallback12;
     @Nullable
     private final android.view.View.OnClickListener mCallback9;
+    @Nullable
+    private final android.view.View.OnClickListener mCallback13;
     @Nullable
     private final android.view.View.OnClickListener mCallback8;
     @Nullable
@@ -42,8 +43,8 @@ public class FragmentSideMenuBindingImpl extends FragmentSideMenuBinding impleme
     private FragmentSideMenuBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 1
             , (android.widget.Button) bindings[14]
-            , (android.view.View) bindings[16]
-            , (android.widget.Button) bindings[17]
+            , (android.view.View) bindings[17]
+            , (android.widget.Button) bindings[15]
             , (android.widget.TextView) bindings[8]
             , (android.widget.TextView) bindings[9]
             , (android.widget.RadioButton) bindings[7]
@@ -53,7 +54,7 @@ public class FragmentSideMenuBindingImpl extends FragmentSideMenuBinding impleme
             , (android.widget.RadioButton) bindings[1]
             , (android.widget.TextView) bindings[2]
             , (android.widget.TextView) bindings[3]
-            , (android.widget.RadioGroup) bindings[15]
+            , (android.widget.RadioGroup) bindings[16]
             , (android.widget.RadioButton) bindings[4]
             , (android.widget.TextView) bindings[5]
             , (android.widget.TextView) bindings[6]
@@ -62,6 +63,7 @@ public class FragmentSideMenuBindingImpl extends FragmentSideMenuBinding impleme
         this.cancelButton.setTag(null);
         this.mboundView0 = (android.widget.ScrollView) bindings[0];
         this.mboundView0.setTag(null);
+        this.nextButton.setTag(null);
         this.potatoDescription.setTag(null);
         this.potatoPrice.setTag(null);
         this.potatoes.setTag(null);
@@ -80,6 +82,7 @@ public class FragmentSideMenuBindingImpl extends FragmentSideMenuBinding impleme
         mCallback11 = new com.example.lunchtray.generated.callback.OnClickListener(this, 4);
         mCallback12 = new com.example.lunchtray.generated.callback.OnClickListener(this, 5);
         mCallback9 = new com.example.lunchtray.generated.callback.OnClickListener(this, 2);
+        mCallback13 = new com.example.lunchtray.generated.callback.OnClickListener(this, 6);
         mCallback8 = new com.example.lunchtray.generated.callback.OnClickListener(this, 1);
         mCallback10 = new com.example.lunchtray.generated.callback.OnClickListener(this, 3);
         invalidateAll();
@@ -261,6 +264,7 @@ public class FragmentSideMenuBindingImpl extends FragmentSideMenuBinding impleme
             // api target 1
 
             this.cancelButton.setOnClickListener(mCallback12);
+            this.nextButton.setOnClickListener(mCallback13);
             this.potatoes.setOnClickListener(mCallback10);
             this.rice.setOnClickListener(mCallback11);
             this.salad.setOnClickListener(mCallback8);
@@ -342,6 +346,23 @@ public class FragmentSideMenuBindingImpl extends FragmentSideMenuBinding impleme
 
 
                     viewModel.setSide("soup");
+                }
+                break;
+            }
+            case 6: {
+                // localize variables for thread safety
+                // SideMenuFragment != null
+                boolean sideMenuFragmentJavaLangObjectNull = false;
+                // SideMenuFragment
+                com.example.lunchtray.ui.order.SideMenuFragment sideMenuFragment = mSideMenuFragment;
+
+
+
+                sideMenuFragmentJavaLangObjectNull = (sideMenuFragment) != (null);
+                if (sideMenuFragmentJavaLangObjectNull) {
+
+
+                    sideMenuFragment.goToNextScreen();
                 }
                 break;
             }
