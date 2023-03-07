@@ -48,7 +48,7 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\7.4.2\\com.example.lunchtray.app-main-49:\\layout\\fragment_side_menu.xml"
     },
     {
-        "merged": "com.example.lunchtray.app-merged_res-47:/layout_fragment_side_menu.xml.flat",
-        "source": "com.example.lunchtray.app-main-49:/layout/fragment_side_menu.xml"
+        "merged": "com.example.lunchtray.app-merged_res-47:/layout_fragment_checkout.xml.flat",
+        "source": "com.example.lunchtray.app-main-49:/layout/fragment_checkout.xml"
     }
 ]
